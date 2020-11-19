@@ -1,0 +1,12 @@
+<!--pages/home/home.wxml-->
+
+<!-- <text>表示一段行内文本，类似于 HTML 语言的<span>标签，多个<text>标签之间不会产生分行。 -->
+
+<view >
+
+    <text > 你好老baby</text>
+    <text > 你好老baby</text>
+    <text > 你好老baby</text>
+    <text > 你好老baby</text>
+
+</view>
